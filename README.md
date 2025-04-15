@@ -22,8 +22,7 @@ Environment: Docker
 Setup Guide
 
 1. Clone the project
-git clone https://github.com/your-username/phonebook-codeigniter.git
-cd phonebook-codeigniter
+git clone https://github.com/chunmeng95/unitytest.git
 
 2. Run Docker containers
 Ensure you have Docker installed. Then run:
